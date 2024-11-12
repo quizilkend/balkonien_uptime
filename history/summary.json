@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1901,
-    "timeDay": 2200,
-    "timeWeek": 1871,
-    "timeMonth": 1901,
-    "timeYear": 1901,
+    "time": 1875,
+    "timeDay": 1985,
+    "timeWeek": 1840,
+    "timeMonth": 1875,
+    "timeYear": 1875,
     "dailyMinutesDown": {}
   },
   {
@@ -28,19 +28,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 846,
-    "timeDay": 1164,
-    "timeWeek": 850,
-    "timeMonth": 846,
-    "timeYear": 846,
+    "time": 834,
+    "timeDay": 1002,
+    "timeWeek": 833,
+    "timeMonth": 834,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2024-11-04": 16
     }
   },
   {
     "name": "Greiner.schule",
-    "url": "greiner.schule",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://greiner.schule",
+    "icon": "https://icons.duckduckgo.com/ip3/greiner.schule.ico",
     "slug": "greiner-schule",
     "status": "up",
     "uptime": "100.00%",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 1044,
-    "timeWeek": 972,
-    "timeMonth": 984,
-    "timeYear": 984,
+    "time": 945,
+    "timeDay": 856,
+    "timeWeek": 923,
+    "timeMonth": 945,
+    "timeYear": 945,
     "dailyMinutesDown": {}
   }
 ]
