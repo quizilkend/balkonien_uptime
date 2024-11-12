@@ -22,7 +22,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our (upptimes) status website →**](https://demo.upptime.js.org)
+[**Visit Samuels Uptime Status Page→**](https://quizilkend.github.io/balkonien_uptime/)
 
 ## 📄 License
 
