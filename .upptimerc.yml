@@ -1,6 +1,8 @@
 # Change these first
 owner: quizilkend # Your GitHub organization or username, where this repository lives
 repo: balkonien_uptime # The name of this repository
+title: quizilkend
+user-agent: quizilkend
 
 sites:
   - name: balkonien main
@@ -8,7 +10,10 @@ sites:
   - name: balkonien yunohost
     url: https://yunohost.balkonien.org
   - name: Greiner.schule
-    url: greiner.schule
+    url: https://greiner.schule
+
+assignees:
+  - quizilkend
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
