@@ -4,18 +4,20 @@
     "url": "https://balkonien.org",
     "icon": "https://icons.duckduckgo.com/ip3/balkonien.org.ico",
     "slug": "balkonien-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2133,
-    "timeDay": 1837,
-    "timeWeek": 1976,
-    "timeMonth": 2229,
-    "timeYear": 2133,
-    "dailyMinutesDown": {}
+    "time": 2115,
+    "timeDay": 1569,
+    "timeWeek": 1891,
+    "timeMonth": 2212,
+    "timeYear": 2115,
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "balkonien yunohost",
@@ -31,7 +33,7 @@
     "time": 1079,
     "timeDay": 702,
     "timeWeek": 877,
-    "timeMonth": 1185,
+    "timeMonth": 1193,
     "timeYear": 1079,
     "dailyMinutesDown": {
       "2024-11-04": 16
@@ -51,7 +53,7 @@
     "time": 837,
     "timeDay": 626,
     "timeWeek": 801,
-    "timeMonth": 785,
+    "timeMonth": 790,
     "timeYear": 837,
     "dailyMinutesDown": {}
   }
