@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 2227,
-    "timeDay": 2602,
-    "timeWeek": 2131,
-    "timeMonth": 2345,
-    "timeYear": 2227,
+    "time": 2241,
+    "timeDay": 3461,
+    "timeWeek": 2322,
+    "timeMonth": 2396,
+    "timeYear": 2241,
     "dailyMinutesDown": {
       "2024-12-12": 70
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/yunohost.balkonien.org.ico",
     "slug": "balkonien-yunohost",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1054,
-    "timeDay": 1207,
-    "timeWeek": 873,
-    "timeMonth": 1050,
-    "timeYear": 1054,
+    "uptimeYear": "99.99%",
+    "time": 1051,
+    "timeDay": 753,
+    "timeWeek": 855,
+    "timeMonth": 942,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2024-11-04": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 881,
-    "timeWeek": 791,
-    "timeMonth": 710,
-    "timeYear": 788,
+    "time": 785,
+    "timeDay": 543,
+    "timeWeek": 730,
+    "timeMonth": 704,
+    "timeYear": 785,
     "dailyMinutesDown": {}
   }
 ]
