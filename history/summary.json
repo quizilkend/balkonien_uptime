@@ -45,19 +45,19 @@
     "url": "https://greiner.schule",
     "icon": "https://icons.duckduckgo.com/ip3/greiner.schule.ico",
     "slug": "greiner-schule",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 839,
-    "timeDay": 661,
-    "timeWeek": 1312,
-    "timeMonth": 1021,
-    "timeYear": 839,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 907,
+    "timeDay": 3667,
+    "timeWeek": 2242,
+    "timeMonth": 1310,
+    "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-03-07": 20
+      "2025-03-07": 31
     }
   }
 ]
