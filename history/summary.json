@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/balkonien.org.ico",
     "slug": "balkonien-main",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.90%",
-    "time": 2175,
-    "timeDay": 1923,
-    "timeWeek": 1730,
-    "timeMonth": 1859,
-    "timeYear": 2175,
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.91%",
+    "time": 2172,
+    "timeDay": 1845,
+    "timeWeek": 1724,
+    "timeMonth": 1858,
+    "timeYear": 2172,
     "dailyMinutesDown": {
-      "2025-05-04": 11,
       "2025-02-13": 170,
       "2024-12-12": 70
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1052,
-    "timeDay": 790,
-    "timeWeek": 831,
-    "timeMonth": 955,
-    "timeYear": 1052,
+    "time": 1051,
+    "timeDay": 731,
+    "timeWeek": 815,
+    "timeMonth": 953,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2024-11-04": 16
     }
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 874,
-    "timeDay": 870,
-    "timeWeek": 821,
-    "timeMonth": 814,
+    "timeDay": 770,
+    "timeWeek": 819,
+    "timeMonth": 815,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2025-03-07": 20
