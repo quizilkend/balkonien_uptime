@@ -4,7 +4,7 @@
     "url": "https://balkonien.org",
     "icon": "https://icons.duckduckgo.com/ip3/balkonien.org.ico",
     "slug": "balkonien-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
@@ -16,6 +16,7 @@
     "timeMonth": 1678,
     "timeYear": 2071,
     "dailyMinutesDown": {
+      "2025-07-04": 0,
       "2025-06-27": 24,
       "2025-06-25": 71,
       "2025-05-21": 93,
