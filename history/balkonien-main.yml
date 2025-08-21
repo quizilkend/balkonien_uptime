@@ -1,7 +1,7 @@
 url: https://balkonien.org
-status: up
-code: 200
-responseTime: 1662
-lastUpdated: 2025-08-20T23:12:37.715Z
+status: down
+code: 503
+responseTime: 1508
+lastUpdated: 2025-08-21T21:24:48.777Z
 startTime: 2024-11-04T20:26:25.432Z
 generator: Upptime <https://github.com/upptime/upptime>
