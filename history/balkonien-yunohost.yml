@@ -1,7 +1,7 @@
 url: https://yunohost.balkonien.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-04T07:19:04.000Z
+status: up
+code: 200
+responseTime: 1005
+lastUpdated: 2025-09-04T07:30:30.065Z
 startTime: 2024-11-04T20:26:27.326Z
 generator: Upptime <https://github.com/upptime/upptime>
