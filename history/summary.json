@@ -33,9 +33,9 @@
     "url": "https://yunohost.balkonien.org",
     "icon": "https://icons.duckduckgo.com/ip3/yunohost.balkonien.org.ico",
     "slug": "balkonien-yunohost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "92.53%",
+    "uptimeDay": "92.52%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
@@ -45,6 +45,7 @@
     "timeMonth": 906,
     "timeYear": 990,
     "dailyMinutesDown": {
+      "2025-09-04": 0,
       "2025-09-03": 108,
       "2024-11-04": 16
     }
