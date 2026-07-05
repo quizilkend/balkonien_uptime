@@ -4,17 +4,17 @@
     "url": "https://balkonien.org",
     "icon": "https://icons.duckduckgo.com/ip3/balkonien.org.ico",
     "slug": "balkonien-main",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
-    "time": 1719,
-    "timeDay": 1496,
-    "timeWeek": 1372,
-    "timeMonth": 1293,
-    "timeYear": 1688,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "86.49%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.64%",
+    "time": 1707,
+    "timeDay": 1225,
+    "timeWeek": 1320,
+    "timeMonth": 1282,
+    "timeYear": 1687,
     "dailyMinutesDown": {
       "2025-07-15": 34,
       "2025-08-22": 527,
@@ -30,7 +30,7 @@
       "2026-04-28": 104,
       "2026-04-29": 110,
       "2026-04-30": 154,
-      "2026-07-05": 0
+      "2026-07-05": 195
     }
   },
   {
